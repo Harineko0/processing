@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Processing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Processing_jar</output-path>
+    <root id="archive" name="Processing.jar">
+      <element id="module-output" name="Processing" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/processing/core/3.3.6/core-3.3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
